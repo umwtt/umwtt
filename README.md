@@ -1,14 +1,11 @@
-=============================================================================================================================
+===============================================================================================
 
-Back-end Developer
+Umut
 ------------------
 
-* 🌍  I'm based in Ankara / Turkey
-* 🖥️  See my portfolio at [LinkedIn](http://www.linkedin.com/in/kadir-umut-%C3%B6zkan-4b5a63324/)
-* ✉️  You can contact me at [ozkanumtt@gmail.com](mailto:ozkanumtt@gmail.com)
-* 🧠  I'm currently learning Node.js skills
-* 👥  I'm looking to collaborate on innovative projects
-* 💬  Ask me about I also do Python and C++ projects as a hobby.
+* 🌍  in Ankara / Turkey
+* 🖥️  portfolio at [LinkedIn](http://www.linkedin.com/in/kadir-umut-%C3%B6zkan-4b5a63324/)
+* ✉️  contact me at [ozkanumtt@gmail.com](mailto:ozkanumtt@gmail.com)
 
 
 ### Socials
